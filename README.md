@@ -13,4 +13,10 @@ everything about prompt engineering
 - [面向开发者的LLM入门教程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/)
   - [面向开发者的提示工程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/C1/readme)
 - [微软提示工程资料](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
--   [提示工程技术](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+  - [提示工程技术](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+- [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- [PromptPapers](https://github.com/thunlp/PromptPapers)
+
+### 模版
+- [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
