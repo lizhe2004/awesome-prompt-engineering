@@ -12,3 +12,5 @@ everything about prompt engineering
 - [Brex的提示工程指南](https://github.com/brexhq/prompt-engineering)
 - [面向开发者的LLM入门教程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/)
   - [面向开发者的提示工程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/C1/readme)
+- [微软提示工程资料](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
+-   [提示工程技术](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
