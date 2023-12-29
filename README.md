@@ -35,7 +35,14 @@ everything about prompt engineering
 - [PromptPort - Navigate the Sea of Creativity with the Best Writing Prompts Around!](https://promptport.ai/)
 - [Knit - A better AI playground for prompt designers](https://promptknit.com/)
 - [LangSmith](https://smith.langchain.com/hub)
-
+### 文章
+- [prompt-engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+  - [中文](https://tczjw7bsp1.feishu.cn/docx/WthRdSasboOVmFxm18ZcKabwnRd) `
+- [The Art of Prompt Engineering](https://webcache.googleusercontent.com/search?q=cache:https://ai.plainenglish.io/the-art-of-prompt-engineering-0fe6910df1a6)
+  - [提示工程的艺术](https://tczjw7bsp1.feishu.cn/docx/MYgad1ZbVoD6cfx7dfUc1Cfuncg)
+- [12 Prompt Engineering Techniques](https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa)
+- [Eight Prompt Engineering Implementations](https://cobusgreyling.medium.com/eight-prompt-engineering-implementations-fc361fdc87b)
+- [Prompt Engineering Complete Guide](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431)
 ### 其他
 - [Prompt flow](https://microsoft.github.io/promptflow/)
 
