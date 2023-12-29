@@ -43,6 +43,9 @@ everything about prompt engineering
 - [12 Prompt Engineering Techniques](https://cobusgreyling.medium.com/12-prompt-engineering-techniques-644481c857aa)
 - [Eight Prompt Engineering Implementations](https://cobusgreyling.medium.com/eight-prompt-engineering-implementations-fc361fdc87b)
 - [Prompt Engineering Complete Guide](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431)
+- [Ultimate Guide to Master Prompt Engineering](https://levelup.gitconnected.com/ultimate-guide-to-master-prompt-engineering-638fd06b9784)
+- [Prompt Engineering 教你如何与chatgpt沟通](https://juejin.cn/post/7234447275861639205?searchId=202309051031431AE0B623F97063A72583#heading-16)
+- [Prompt Engineering 201: Advanced methods and toolkits](https://amatriain.net/blog/prompt201)
 ### 其他
 - [Prompt flow](https://microsoft.github.io/promptflow/)
 
