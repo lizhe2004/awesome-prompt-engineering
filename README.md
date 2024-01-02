@@ -55,6 +55,8 @@ everything about prompt engineering
 - [Journeying Through the Tree of Thought Prompting: A Unique Approach to Problem-Solving](https://medium.com/@HalderNilimesh/journeying-through-the-tree-of-thought-prompting-a-unique-approach-to-problem-solving-d8dd00f848bc)
 - [Chain-Of-Thought Prompting & LLM Reasoning](https://cobusgreyling.medium.com/chain-of-thought-prompting-llm-reasoning-147a6cdb312b)
 - [Zero-shot, Fewshot and Prompt chaining using Langchain](https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f)
+- [Generative AI Prompt Pipelines](https://cobusgreyling.medium.com/generative-ai-prompt-pipelines-de82d803ffc2)
+- [Prompt Pipelines](https://cobusgreyling.medium.com/prompt-pipelines-de48e25de224)
 ### 其他
 - [Prompt flow](https://microsoft.github.io/promptflow/)
 
