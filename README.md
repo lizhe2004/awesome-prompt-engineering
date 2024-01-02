@@ -53,7 +53,8 @@ everything about prompt engineering
 - [The Chain-Of-X Phenomenon In LLM Prompting](https://cobusgreyling.medium.com/the-chain-of-x-phenomenon-in-llm-prompting-efa7831d093d)
 - [Mastering ReAct Prompting: A Crucial Step in LangChain Implementation — A Guided Example for Agents](https://blog.gopenai.com/mastering-react-prompting-a-crucial-step-in-langchain-implementation-a-guided-example-for-agents-efdf1b756105)
 - [Journeying Through the Tree of Thought Prompting: A Unique Approach to Problem-Solving](https://medium.com/@HalderNilimesh/journeying-through-the-tree-of-thought-prompting-a-unique-approach-to-problem-solving-d8dd00f848bc)
-- [Chain-Of-Thought Prompting & LLM Reasoning](https://cobusgreyling.medium.com/chain-of-thought-prompting-llm-reasoning-147a6cdb312b)  
+- [Chain-Of-Thought Prompting & LLM Reasoning](https://cobusgreyling.medium.com/chain-of-thought-prompting-llm-reasoning-147a6cdb312b)
+- [Zero-shot, Fewshot and Prompt chaining using Langchain](https://blog.gopenai.com/zeroshot-fewshot-and-prompt-chaining-using-langchain-4259d700d67f)
 ### 其他
 - [Prompt flow](https://microsoft.github.io/promptflow/)
 
