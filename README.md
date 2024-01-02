@@ -27,6 +27,7 @@ everything about prompt engineering
 - [Prompt Extend - a Hugging Face Space by daspartho](https://huggingface.co/spaces/daspartho/prompt-extend)
 - [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
 - [YiVal 自动化提示工程优化](https://github.com/YiVal/YiVal )
+- [Prompt Tuning tips](https://text-generator.io/blog/prompt-tuning-tips)
 
 ### 模版
 - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms)
@@ -46,6 +47,13 @@ everything about prompt engineering
 - [Ultimate Guide to Master Prompt Engineering](https://levelup.gitconnected.com/ultimate-guide-to-master-prompt-engineering-638fd06b9784)
 - [Prompt Engineering 教你如何与chatgpt沟通](https://juejin.cn/post/7234447275861639205?searchId=202309051031431AE0B623F97063A72583#heading-16)
 - [Prompt Engineering 201: Advanced methods and toolkits](https://amatriain.net/blog/prompt201)
+- [Tree of Thought Prompting: Unleashing the Potential of AI Brainstorming](https://blog.searce.com/tree-of-thought-prompting-unleashing-the-potential-of-ai-brainstorming-9a77a7d640b7)
+- [Advanced Prompt Engineering](https://webcache.googleusercontent.com/search?q=cache:https://towardsdatascience.com/advanced-prompt-engineering-f07f9e55fe01)
+  - [高级提示工程](https://tczjw7bsp1.feishu.cn/docx/AawtdxedXouOnBxkDhlcqEaOnHf?from=from_copylink)
+- [The Chain-Of-X Phenomenon In LLM Prompting](https://cobusgreyling.medium.com/the-chain-of-x-phenomenon-in-llm-prompting-efa7831d093d)
+- [Mastering ReAct Prompting: A Crucial Step in LangChain Implementation — A Guided Example for Agents](https://blog.gopenai.com/mastering-react-prompting-a-crucial-step-in-langchain-implementation-a-guided-example-for-agents-efdf1b756105)
+- [Journeying Through the Tree of Thought Prompting: A Unique Approach to Problem-Solving](https://medium.com/@HalderNilimesh/journeying-through-the-tree-of-thought-prompting-a-unique-approach-to-problem-solving-d8dd00f848bc)
+- [Chain-Of-Thought Prompting & LLM Reasoning](https://cobusgreyling.medium.com/chain-of-thought-prompting-llm-reasoning-147a6cdb312b)  
 ### 其他
 - [Prompt flow](https://microsoft.github.io/promptflow/)
 
