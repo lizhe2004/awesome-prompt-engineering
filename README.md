@@ -18,8 +18,7 @@ everything about prompt engineering
 - [PromptPapers](https://github.com/thunlp/PromptPapers)
 - [提示工程指南 | Prompt Engineering Guide](https://www.promptingguide.ai/zh)
 - [‍‬​‌‍‌‍‌⁡‬⁢​​⁢⁤​‬﻿⁡​​⁤‍‍‍‬⁢​⁢⁣​‌﻿⁣‬​﻿⁢⁢​⁣‍‬⁣⁣⁤‌‌‍OpenAI：GPT 最佳实践中文大白话版本\_未来力场编译.pdf - 飞书云文档](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
-- 
-
+- [吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://prompt-engineering.xiniushu.com/)
 
 
 ### 优化
