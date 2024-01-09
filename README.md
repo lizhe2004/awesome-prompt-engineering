@@ -17,7 +17,7 @@ everything about prompt engineering
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [PromptPapers](https://github.com/thunlp/PromptPapers)
 - [提示工程指南 | Prompt Engineering Guide](https://www.promptingguide.ai/zh)
-- [‍‬​‌‍‌‍‌⁡‬⁢​​⁢⁤​‬﻿⁡​​⁤‍‍‍‬⁢​⁢⁣​‌﻿⁣‬​﻿⁢⁢​⁣‍‬⁣⁣⁤‌‌‍OpenAI：GPT 最佳实践中文大白话版本\_未来力场编译.pdf - 飞书云文档](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
+- [⁣⁣⁤‌‌‍OpenAI：GPT 最佳实践中文大白话版本\_未来力场编译.pdf - 飞书云文档](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
 - [吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://prompt-engineering.xiniushu.com/)
 - [Github-A developer’s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
 
@@ -31,9 +31,12 @@ everything about prompt engineering
 ### 模版
 - [unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [AiShort(ChatGPT Shortcut)-简单易用的 AI 快捷指令表，让生产力倍增！ | AiShort(ChatGPT Shortcut)-AI Prompt Management,Productivity Tool](https://www.aishort.top/)
-- [PromptPort - Navigate the Sea of Creativity with the Best Writing Prompts Around!](https://promptport.ai/)
-- [Knit - A better AI playground for prompt designers](https://promptknit.com/)
+- [AiShort](https://www.aishort.top/)
+  - ChatGPT Shortcut-简单易用的 AI 快捷指令表，让生产力倍增
+- [PromptPort](https://promptport.ai/)
+  - Navigate the Sea of Creativity with the Best Writing Prompts Around!
+- [Knit](https://promptknit.com/)
+  - A better AI playground for prompt designers
 - [LangSmith](https://smith.langchain.com/hub)
 ### 文章
 - [prompt-engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
