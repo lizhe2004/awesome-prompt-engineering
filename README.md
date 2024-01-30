@@ -14,6 +14,7 @@ everything about prompt engineering
   - [面向开发者的提示工程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/C1/readme)
 - [微软提示工程资料](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
   - [提示工程技术](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
+- [微软AI:Prompt engineering techniques](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/labs/Prompt-engineering-techniques/)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [PromptPapers](https://github.com/thunlp/PromptPapers)
 - [提示工程指南 | Prompt Engineering Guide](https://www.promptingguide.ai/zh)
