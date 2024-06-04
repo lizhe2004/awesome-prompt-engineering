@@ -8,7 +8,8 @@ everything about prompt engineering
 - [learnprompting 提示工程文字版课程](https://github.com/trigaten/Learn_Prompting)
   - [learnprompting网站中文版](https://learnprompting.org/zh-Hans/docs/intro)
 - [Dair-ai提示工程指南](https://github.com/dair-ai/Prompt-Engineering-Guide)
-  - [网站](www.promptingguide.ai/)
+  - [网站](https://www.promptingguide.ai/)
+  - [中文版](https://www.promptingguide.ai/zh)
 - [Brex的提示工程指南](https://github.com/brexhq/prompt-engineering)
 - [面向开发者的LLM入门教程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/)
   - [面向开发者的提示工程](https://datawhalechina.github.io/prompt-engineering-for-developers/#/C1/readme)
@@ -17,11 +18,13 @@ everything about prompt engineering
 - [微软AI:Prompt engineering techniques](https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/labs/Prompt-engineering-techniques/)
 - [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [PromptPapers](https://github.com/thunlp/PromptPapers)
-- [提示工程指南 | Prompt Engineering Guide](https://www.promptingguide.ai/zh)
 - [⁣⁣⁤‌‌‍OpenAI：GPT 最佳实践中文大白话版本\_未来力场编译.pdf - 飞书云文档](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
 - [吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版](https://prompt-engineering.xiniushu.com/)
 - [Github-A developer’s guide to prompt engineering and LLMs](https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/)
-
+- [26 个提示原则排序论文](https://arxiv.org/pdf/2312.16171)
+- [通向AGI之路-Prompt编写](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO)
+- [A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/pdf/2402.07927)
+  - ![](https://cdn.jsdelivr.net/gh/lizhe2004/pic-repo@master/imgs/20240604162506.png)
 ### 优化
 - [PromptPerfect - Elevate Your Prompts to Perfection. Prompt Engineering, Optimizing, Debugging and Hosting.](https://promptperfect.jinaai.cn/prompts)
 - [Prompt Extend - a Hugging Face Space by daspartho](https://huggingface.co/spaces/daspartho/prompt-extend)
@@ -39,7 +42,11 @@ everything about prompt engineering
 - [Knit](https://promptknit.com/)
   - A better AI playground for prompt designers
 - [LangSmith](https://smith.langchain.com/hub)
+- [通向AGI之路-Prompt模版](https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tblKrq5ConWWamYX&view=vewY4M4UDm)
 ### 文章
+- [How I Won Singapore’s GPT-4 Prompt Engineering Competition](https://webcache.googleusercontent.com/search?q=cache:https%3A%2F%2Ftowardsdatascience.com%2Fhow-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
+  - [中译版](https://baoyu.io/translations/prompt-engineering/how-i-won-singapores-gpt-4-prompt-engineering-competition)
+  - ![](https://cdn.jsdelivr.net/gh/lizhe2004/pic-repo@master/imgs/20240604162616.png)
 - [prompt-engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
   - [中文](https://tczjw7bsp1.feishu.cn/docx/WthRdSasboOVmFxm18ZcKabwnRd) `
 - [The Art of Prompt Engineering](https://webcache.googleusercontent.com/search?q=cache:https://ai.plainenglish.io/the-art-of-prompt-engineering-0fe6910df1a6)
